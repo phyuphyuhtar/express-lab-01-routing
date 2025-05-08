@@ -22,7 +22,7 @@ app.get("/", (req, res) => {
 // Task 1: Health Check Endpoint
 // CREATE GET /health
 app.get("/health", (req, res) => {
-  // Return JSON: { status: "ok", timestamp: "ISO DATE" }
+  // Return JSON: { status: "ok" }
 });
 
 // TASK 2: User Routes
@@ -48,7 +48,6 @@ app.post("/messages", (req, res) => {
   // 3. Return JSON with:
   //    - Generated ID (number)
   //    - Original text
-  //    - ISO timestamp
   //    - status: "received"
 });
 
