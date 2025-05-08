@@ -14,6 +14,13 @@
 
 2. Install [Postman](postman.com/downloads)
 
+### Important Documentation
+
+- [Express Routing](https://expressjs.com/en/guide/routing.html)
+- [Postman Request](https://learning.postman.com/docs/sending-requests/create-requests/request-basics/)
+- [Rest API Concepts](https://www.restapitutorial.com/introduction/httpmethods)
+- [Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
+
 ## 🛠️ Setup Instructions:
 
 1. Fork Starter Code
