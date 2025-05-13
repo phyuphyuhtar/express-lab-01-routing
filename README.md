@@ -127,3 +127,18 @@ Collection Setup
    - **GET** http://localhost:3000/users/1 (valid user)
    - **GET** http://localhost:3000/users/999 (invalid user)
    - **POST** http://localhost:3000/messages
+
+## 🧪 Automated Testing with Jasmine
+
+Watch Mode (Continuous Testing):
+
+```bash
+npm run test:watch
+```
+
+- Automatically re-runs tests when files change with every save
+- In your terminal ensure that there are no test with an F (failing)
+  - At the bottom it should say:
+  ```bash
+  7 specs, 0 failures # When all test specs pass
+  ```
